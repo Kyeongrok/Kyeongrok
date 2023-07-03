@@ -1,5 +1,9 @@
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyeongrok)
+
 👋 Career
-- 멋쟁이사자처럼 백엔드과정 주강사(2022.08 ~ 현재)
+- 멋쟁이사자처럼 백엔드과정 주강사(2022.08 ~ 2023.05)
 - OSC Korea Application Architect(~ 2022.08)
 
 ## 🛠Tech Stack🛠
