@@ -1,4 +1,17 @@
+# Kyeongrok Kim ([@Kyeongrok](https://github.com/Kyeongrok))[![English](https://img.shields.io/badge/README.md-English-blue.svg)](README.md)
+안녕하세요, 저는 백엔드 & 임베디드 개발자이자 작가로서 소프트웨어 개발과 개발 관련 컨텐츠 제작에 열정을 쏟고 있습니다. 제 목표는 Java, C# 등을 이용해 공장을 효율적으로 운영할 수 있도록 돕는 FEMS솔루션을 개발하여 제조업에 기여하는 것입니다. 또한 제가 개발을 하면서 익힌 노하우를 소프트웨어 업계 전반에 공유하여 개발자의 효율을 향상 시키는 것을 목표로 하고 있습니다.
 
+
+## 🚀 주요 성과
+- **Machine-Y**: 리눅스 기반 산업용 PC에 GPIO를 통해 센서로 데이터를 수집하는 솔루션
+
+## 💻 전문 분야
+- Spring Boot API 개발
+- Embaded Linux GPIO 연동
+
+
+## 🌟 저서
+1. [방구석 부트캠프 - 자바](): 실무 코딩 스타일 기반의 자바 입문서
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyeongrok)
 
