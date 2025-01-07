@@ -3,15 +3,18 @@
 
 
 ## 🚀 주요 성과
+- **Machine365**: 수집된 데이터를 보여주는 API와 사이트
 - **Machine-Y**: 리눅스 기반 산업용 PC에 GPIO를 통해 센서로 데이터를 수집하는 솔루션
 
 ## 💻 전문 분야
 - Spring Boot API 개발
 - Embaded Linux GPIO 연동
-
+- 센서 정보 수집용 Agent개발(Linux, Windows)
 
 ## 🌟 저서
 1. [방구석 부트캠프 - 자바](): 실무 코딩 스타일 기반의 자바 입문서
+2. [말랑말랑 알고리즘](): 파이썬 알고리즘 입문서
+3. [한입에 웹 크롤링](): 비전공자를 위한 크롤러 개발 방법
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyeongrok)
 
@@ -19,6 +22,7 @@
 - 백엔드 개발자(2023.10 ~ 현재)[3View]
 - 백엔드과정 주강사(2022.08 ~ 2023.05)[멋쟁이사자처럼] 
 - Application Architect(~ 2022.08)[OSC Korea]
+- 백엔드 개발자(2018.02 ~ 2019.08)[Hanbitco]
 
 ## 🛠Tech Stack🛠
 **Languages & Platform**<br><br>
