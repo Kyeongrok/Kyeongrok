@@ -3,8 +3,8 @@ Hello, I am a backend and embedded developer as well as a writer, passionate abo
 
 
 ## 🚀 주요 성과
-- [**Machine365**](https://machine365.ai): 수집된 데이터를 보여주는 API와 사이트
-- **Machine-Y**: 리눅스 기반 산업용 PC에 GPIO를 통해 센서로 데이터를 수집하는 솔루션
+- [**Machine365**](https://machine365.ai): FEMS Solution
+- **Machine-Y**: A solution for collecting sensor data via GPIO on Linux-based industrial PCs
 
 ## 💻 전문 분야
 - Spring Boot API 개발
