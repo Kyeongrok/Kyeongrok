@@ -19,7 +19,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyeongrok)
 
-👋 Career
+## 👋 Career
 - 백엔드 개발자(2023.10 ~ 현재)[3View]
 - 백엔드과정 주강사(2022.08 ~ 2023.05)[멋쟁이사자처럼] 
 - Application Architect(~ 2022.08)[OSC Korea]
@@ -35,6 +35,10 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
+## 📜 Certifications
+- CKA (Certified Kubernetes Administrator)
+- SAP FI Associate
 
 ## 📚 Educational Content and Resources
 - https://www.youtube.com/@KyounRrock
