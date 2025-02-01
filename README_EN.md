@@ -2,7 +2,7 @@
 Hello, I am a backend and embedded developer as well as a writer, passionate about software development and creating development-related content. My goal is to contribute to the manufacturing industry by developing FEMS solutions using Java and C# to enhance factory operations efficiently. Additionally, I aim to share the knowledge and expertise I have gained through development to improve efficiency across the software industry.
 
 
-## 🚀 주요 성과
+## 🚀 Key Achievements
 - [**Machine365**](https://machine365.ai): FEMS Solution
 - **Machine-Y**: A solution for collecting sensor data via GPIO on Linux-based industrial PCs
 
