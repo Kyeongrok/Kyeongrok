@@ -8,8 +8,9 @@
 
 ## 💻 전문 분야
 - Spring Boot API 개발
-- Embaded Linux GPIO 연동
+- Embaded Linux GPIO 개발
 - 센서 정보 수집용 Agent개발(Linux, Windows)
+- DB설계 및 튜닝
 
 ## 🌟 저서
 1. [방구석 부트캠프 - 자바](): 실무 코딩 스타일 기반의 자바 입문서
