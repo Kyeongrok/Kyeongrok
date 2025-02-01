@@ -1,4 +1,4 @@
-# Kyeongrok Kim ([@Kyeongrok](https://github.com/Kyeongrok))[![Korea](https://img.shields.io/badge/README.md-English-blue.svg)](README.md)
+# Kyeongrok Kim ([@Kyeongrok](https://github.com/Kyeongrok))[![Korea](https://img.shields.io/badge/README.md-English-blue.svg)](README_EN.md) [![한국어](https://img.shields.io/badge/README.md-한국어-green.svg)](README.md)
 Hello, I am a backend and embedded developer as well as a writer, passionate about software development and creating development-related content. My goal is to contribute to the manufacturing industry by developing FEMS solutions using Java and C# to enhance factory operations efficiently. Additionally, I aim to share the knowledge and expertise I have gained through development to improve efficiency across the software industry.
 
 
