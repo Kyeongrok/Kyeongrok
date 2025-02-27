@@ -21,7 +21,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyeongrok)
 
 ## 👋 Career
-- 백엔드 개발자(2023.10 ~ 현재)[3View]
+- 백엔드 개발자(2023.10 ~ 현재)[[3View](https://e3view.com/)]
 - Application Architect(~ 2022.08)[OSC Korea]
 - 백엔드 개발자(2018.02 ~ 2019.08)[Hanbitco]
 - 백엔드 개발자(2015.02 ~ 2018.01)[OKI Concession]
