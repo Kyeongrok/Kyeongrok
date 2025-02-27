@@ -5,6 +5,7 @@
 ## 🚀 주요 성과
 - [**Machine365**](https://machine365.ai): FEMS솔루션
 - **Machine-Y**: 리눅스 기반 산업용 PC에 GPIO를 통해 센서로 데이터를 수집하는 솔루션
+- **FEMS**: 공장 에너지 관리 시스템 설계 및 개발
 
 ## 💻 전문 분야
 - Spring Boot API 개발
