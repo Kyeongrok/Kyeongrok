@@ -27,6 +27,9 @@
 - 백엔드 개발자(2018.02 ~ 2019.08)[Hanbitco]
 - 백엔드 개발자(2015.02 ~ 2018.01)[OKI Concession]
 
+## 🎨Open Source
+- [im-choice](https://github.com/Kyeongrok/im-choice) IME 선택 앱 .Vim .VsCode
+
 ## 🛠Tech Stack🛠
 **Languages & Platform**<br><br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
