@@ -8,10 +8,10 @@
 - **FEMS**: 공장 에너지 관리 시스템 설계 및 개발
 
 ## 💻 전문 분야
-- Spring Boot API 개발
+- Spring Boot, Fastapi를 이용한 API 개발
+- DB설계
 - Embaded Linux GPIO 개발
 - 센서 정보 수집용 Agent개발(Linux, Windows)
-- DB설계 및 튜닝
 
 ## 🌟 저서
 1. [방구석 부트캠프 - 자바](https://www.yes24.com/Product/Goods/134640852): 실무 코딩 스타일 기반의 자바 입문서
